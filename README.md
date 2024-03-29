@@ -28,8 +28,7 @@
 ##
 ### _Contato links:_
 <div style="text-align: left">
-  <a href"petersonhenrychaia@gmail.com" target="_blank" ><img alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href"petersonhenryque@hotmail.com" target="_blank" ><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
-  <a href"https://www.linkedin.com/in/peterson-chaia-desenvolvedor/" alt="Linkedln" target"_blank" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+  <a href="petersonhenrychaia@gmail.com" target="_blank" ><img alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href="petersonhenryque@hotmail.com" target="_blank" ><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
+  <a href="https://www.linkedin.com/in/peterson-chaia-desenvolvedor/" target="_blank" ><img alt="Linkedln" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
