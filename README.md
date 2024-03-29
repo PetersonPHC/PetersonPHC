@@ -28,8 +28,8 @@
 ##
 ### _Contato links:_
 <div style="text-align: left">
-  <a href"petersonhenrychaia@gmail.com"> <img target"_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-  <a href"petersonhenryque@hotmail.com"> <img target"_blank" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
-  <a href"petersonhenrychaia@gmail.com"> <img target"_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href"petersonhenrychaia@gmail.com"> <img alt="Gmail" target"_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+  <a href"petersonhenryque@hotmail.com"> <img alt="Outlook" target"_blank" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
+  <a href"https://www.linkedin.com/in/peterson-chaia-desenvolvedor/"> <img alt="Linkedln" target"_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   
 </div>
