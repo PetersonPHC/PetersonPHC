@@ -1,6 +1,6 @@
-
-## _Olá! Eu Sou Peterson H. C. Santos_  👋
-
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=25&duration=3800&pause=450&color=7EFD00FF&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Peterson!%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+</div>
 <div>
   <a href="https://github.com/PetersonPHC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PetersonPHC&show_icons=true&theme=chartreuse-dark&in"/>
