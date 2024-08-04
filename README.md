@@ -12,6 +12,7 @@
   <img aling="center" alt="icon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img aling="center" alt="icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />          
   <img aling="center" alt="icon-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img aling="center" alt="icon-Swagger" height="30" width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
   <img aling="center" alt="icon-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img aling="center" alt="icon-dotNet" height="30" width="40" src="https://github.com/PetersonPHC/PetersonPHC/assets/107315053/5a8518de-5a79-4b16-922c-73a73b459dec" />
   <img aling="center" alt="icon-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
