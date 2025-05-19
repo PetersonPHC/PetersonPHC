@@ -3,8 +3,8 @@
 </div>
 <div>
   <a href="https://github.com/PetersonPHC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PetersonPHC&show_icons=true&theme=chartreuse-dark&in"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonPHC&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PetersonPHC&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonPHC&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
   
 <div style="display: inline-block">
@@ -30,9 +30,6 @@
 
 ##
 
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Playfair+Display&weight=500&duration=3800&pause=800&color=7EFD00&repeat=false&random=false&width=435&lines=Contato+Links%3A" alt="Contact SVG" /></a>
-</div>
 <div style="text-align: left">
   <a href="mailto:petersonhenrychaia@gmail.com" target="_blank" ><img alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="mailto:petersonhenryque@hotmail.com" target="_blank" ><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> </a>
